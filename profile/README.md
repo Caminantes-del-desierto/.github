@@ -1,4 +1,4 @@
-## Hola 👋
+## Hola somos caminantes del desierto 👋
 Promovemos la participación voluntaria para la conservación del Desierto Sonorense.
 
 <p>
