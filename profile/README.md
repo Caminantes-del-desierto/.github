@@ -5,6 +5,7 @@ Promovemos la participación voluntaria para la conservación del Desierto Sonor
   <a href="https://github.com/Caminantes-del-desierto"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=15&lines=Promovemos+el+cuidado+y;restauración+del+desierto+de+sonora;Para+las+generaciones+futuras!;Somos+caminantes+del+desierto;" /></a>
 </p>
 
+
 <img src="https://github.com/Caminantes-del-desierto/.github/blob/main/profile/CDD%20v4.0%202022_white.png" alt="banner"/>
 
 <img src="https://github.com/Caminantes-del-desierto/.github/blob/main/WhatsApp%20Image%202023-06-07%20at%208.53.25%20PM%20(1).jpeg" alt="banner"/>
