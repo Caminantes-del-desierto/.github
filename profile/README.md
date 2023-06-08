@@ -2,7 +2,7 @@
 <p>
   <a href="https://github.com/Caminantes-del-desierto"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=15&lines=Promovemos+el+cuidado+y;restauración+del+desierto+de+sonora;Para+las+generaciones+futuras!;Somos+caminantes+del+desierto;" /></a>
 </p>
-![Actividad junio 2023](WhatsApp Image 2023-06-07 at 8.53.25 PM (1).jpeg)
+![Actividad junio 2023](WhatsAppImage2023-06-07at8.53.25PM(1).jpeg)
 
 
 Promovemos la participación voluntaria para la conservación del Desierto Sonorense.
