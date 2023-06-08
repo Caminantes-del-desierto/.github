@@ -1,6 +1,6 @@
 ## Hola 👋
 <p>
-  <a href="https://github.com/Caminantes-del-desierto"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Promovemos+el+cuidado+y+restauración+del+Desierto+de+Sonora+para+las+generaciones+futuras!;Somos+caminantes+del+desierto;" /></a>
+  <a href="https://github.com/Caminantes-del-desierto"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=30&lines=Promovemos+el+cuidado+y+restauración+del+Desierto+de+Sonora+para+las+generaciones+futuras!;Somos+caminantes+del+desierto;" /></a>
 </p>
 
 <!--
