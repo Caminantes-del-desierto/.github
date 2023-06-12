@@ -4,12 +4,7 @@ Promovemos la participación voluntaria para la conservación del Desierto Sonor
 <p>
   <a href="https://github.com/Caminantes-del-desierto"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=15&lines=Promovemos+el+cuidado+y;restauración+del+desierto+de+sonora;Para+las+generaciones+futuras!;Somos+caminantes+del+desierto;" /></a>
 </p>
-
-
-
 <img src="https://github.com/Caminantes-del-desierto/.github/blob/main/profile/CDD%20v4.0%202022_white.png" alt="banner"/>
-
-
 # Comunidad Caminantes del desierto 
 
 ¡Empieza aquí! Este repositorio contiene la documentación y guía de contribución para los proyectos de la comunidad de Caminantes del desierto .
