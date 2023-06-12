@@ -5,6 +5,11 @@ Promovemos la participación voluntaria para la conservación del Desierto Sonor
   <a href="https://github.com/Caminantes-del-desierto"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=15&lines=Promovemos+el+cuidado+y;restauración+del+desierto+de+sonora;Para+las+generaciones+futuras!;Somos+caminantes+del+desierto;" /></a>
 </p>
 
+
+
+<img src="https://github.com/Caminantes-del-desierto/.github/blob/main/profile/CDD%20v4.0%202022_white.png" alt="banner"/>
+
+
 # Comunidad Caminantes del desierto 
 
 ¡Empieza aquí! Este repositorio contiene la documentación y guía de contribución para los proyectos de la comunidad de Caminantes del desierto .
@@ -25,9 +30,6 @@ Colaboramos con personas de todos los perfiles: activistas, periodistas, funcion
 - ¿Tienes alguna otra idea o propuesta? Compártela con la comunidad a través de Slack o puedes mandarnos un correo a [equipo@caminantesdesierto.org](colectivo@caminantesdeldesierto.org).
 
 Como comunidad open source sabemos que hay siempre algo que mejorar y queremos que nos ayudes a hacerlo. Si crees que hay más formas de contribuir o tienes alguna sugerencia para estas guías, compártenos tus ideas en los [Issues](https://github.com/orgs/Caminantes-del-desierto/discussions) de este repositorio.
-
-
-<img src="https://github.com/Caminantes-del-desierto/.github/blob/main/profile/CDD%20v4.0%202022_white.png" alt="banner"/>
 
 <img src="https://github.com/Caminantes-del-desierto/.github/blob/main/WhatsApp%20Image%202023-06-07%20at%208.53.25%20PM%20(1).jpeg" alt="banner"/>
 <img src="https://github.com/Caminantes-del-desierto/.github/blob/main/WhatsApp%20Image%202023-06-07%20at%208.53.26%20PM%20(1).jpeg" alt="banner"/>
