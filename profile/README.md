@@ -17,6 +17,9 @@ Caminantes del desierto  es una comunidad abierta que desarrolla tecnología par
 
 Colaboramos con personas de todos los perfiles: activistas, periodistas, funcionarias públicas, diseñadoras, desarrolladoras. Cualquiera que comparta nuestros principios, valores y código de conducta puede ser parte de esta comunidad de _Hackers Ambientalistas Cívicos_.
 
+<img src="https://github.com/Caminantes-del-desierto/.github/blob/main/WhatsApp%20Image%202023-06-07%20at%208.53.28%20PM.jpeg" alt="banner"/>
+<img src="https://github.com/Caminantes-del-desierto/.github/blob/main/WhatsApp%20Image%202023-06-07%20at%208.53.27%20PM%20(4).jpeg" alt="banner"/>
+
 ## Comienza a colaborar
 
 ¿Quieres contribuir a proyectos o a los procesos de la comunidad? Este es un espacio abierto y tenemos un lugar para todas las personas. Empieza por aquí:
@@ -33,8 +36,7 @@ Como comunidad open source sabemos que hay siempre algo que mejorar y queremos q
 
 <img src="https://github.com/Caminantes-del-desierto/.github/blob/main/WhatsApp%20Image%202023-06-07%20at%208.53.25%20PM.jpeg" alt="banner"/>
 <img src="https://github.com/Caminantes-del-desierto/.github/blob/main/WhatsApp%20Image%202023-06-07%20at%208.53.26%20PM%20(2).jpeg" alt="banner"/>
-<img src="https://github.com/Caminantes-del-desierto/.github/blob/main/WhatsApp%20Image%202023-06-07%20at%208.53.28%20PM.jpeg" alt="banner"/>
-<img src="https://github.com/Caminantes-del-desierto/.github/blob/main/WhatsApp%20Image%202023-06-07%20at%208.53.27%20PM%20(4).jpeg" alt="banner"/>
+
 
 
 
