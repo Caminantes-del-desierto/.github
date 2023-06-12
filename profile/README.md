@@ -1,4 +1,5 @@
-## Hola somos caminantes del desierto 👋
+## Hola somos caminantes del desierto<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
+
 Promovemos la participación voluntaria para la conservación del Desierto Sonorense.
 
 <p>
